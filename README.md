@@ -1,23 +1,310 @@
-<h1 align="center">Hi 👋, I'm Anvay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrathemperor&label=Profile%20views&color=0e75b6&style=flat" alt="wrathemperor" /> </p>
+# 👋 Hi, I'm **Anvay Khandagale**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrathemperor" alt="wrathemperor" /></a> </p>
+### `Wrathemperor`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anvay-khandagale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anvay-khandagale" height="30" width="40" /></a>
-<a href="https://instagram.com/a._n._v._a._y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a._n._v._a._y" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/macroinvincible" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="macroinvincible" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coder_anvay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_anvay" height="30" width="40" /></a>
+**Computer Science Student • Developer • Problem Solver**
+
+Building practical applications with **Java, React, Spring, Cloud & AI/ML**
+
+<br>
+
+<a href="https://github.com/Wrathemperor">
+  <img src="https://img.shields.io/github/followers/Wrathemperor?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/Wrathemperor">
+  <img src="https://komarev.com/ghpvc/?username=Wrathemperor&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/anvay-khandagale">
+  <img src="https://img.shields.io/badge/LinkedIn-Anvay%20Khandagale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/coder_anvay">
+  <img src="https://img.shields.io/badge/LeetCode-coder__anvay-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/macroinvincible">
+  <img src="https://img.shields.io/badge/HackerRank-macroinvincible-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+</div>
+
+---
+
+## `> whoami`
+
+I'm **Anvay**, a Computer Science student interested in building software that solves real problems.
+
+My current focus is on strengthening my foundations in **software development, data structures & algorithms, backend development, cloud technologies, and AI/ML**.
+
+I enjoy taking an idea from:
+
+`Problem → Architecture → Code → Product`
+
+and continuously improving it.
+
+### Currently focused on
+
+* Building practical full-stack applications
+* Strengthening **Java & Spring** development
+* Improving **Data Structures & Algorithms**
+* Exploring **AWS, Docker & cloud architecture**
+* Learning more about **AI/ML & intelligent applications**
+* Building projects that are actually useful
+
+---
+
+# `⚡ Tech Stack`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wrathemperor&show_icons=true&locale=en&layout=compact" alt="wrathemperor" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrathemperor&show_icons=true&locale=en" alt="wrathemperor" /></p>
+### Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wrathemperor&" alt="wrathemperor" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+---
+
+# `🚀 Featured Projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Smart Expiry Scanner
+
+An application focused on tracking product expiry information and helping users manage items before they expire.
+
+**Tech:** Android • Java • Computer Vision
+
+<br>
+
+<a href="https://github.com/Wrathemperor/-Smart-Expiry-Scanner-App">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔐 VaultLock
+
+An offline-first password vault concept focused on local security, encrypted storage and secure session handling.
+
+**Tech:** Android • Java • MVVM • AES-256-GCM
+
+<br>
+
+<a href="https://github.com/Wrathemperor">
+<img src="https://img.shields.io/badge/More%20Projects-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
+> More projects will be featured here as the portfolio grows.
+
+---
+
+# `📊 GitHub Analytics`
+
+<div align="center">
+
+<a href="https://github.com/Wrathemperor">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wrathemperor&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anvay's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Wrathemperor">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wrathemperor&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Anvay's Top Languages"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wrathemperor&theme=tokyonight&hide_border=true" alt="Anvay's GitHub Streak"/>
+
+</div>
+
+---
+
+# `📈 Contribution Activity`
+
+<div align="center">
+
+<a href="https://github.com/Wrathemperor">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wrathemperor&theme=tokyo-night&hide_border=true&area=true" alt="Anvay's Contribution Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# `🐍 Contribution Snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Wrathemperor/Wrathemperor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# `🏆 GitHub Achievements`
+
+<div align="center">
+
+<a href="https://github.com/Wrathemperor">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wrathemperor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+
+</a>
+
+</div>
+
+---
+
+# `💻 Coding Profiles`
+
+<div align="center">
+
+<a href="https://leetcode.com/coder_anvay">
+<img src="https://img.shields.io/badge/LeetCode-coder__anvay-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/macroinvincible">
+<img src="https://img.shields.io/badge/HackerRank-macroinvincible-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Wrathemperor">
+<img src="https://img.shields.io/badge/GitHub-Wrathemperor-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# `🧠 Currently Learning`
+
+```text
+Java
+ ├── Spring / Spring Boot
+ ├── Backend Development
+ └── System Design
+
+Cloud
+ ├── AWS
+ ├── Docker
+ └── Cloud Architecture
+
+Computer Science
+ ├── Data Structures & Algorithms
+ ├── DBMS
+ ├── Operating Systems
+ └── Computer Networks
+
+AI / ML
+ ├── Machine Learning
+ ├── Computer Vision
+ └── Intelligent Applications
+```
+
+---
+
+# `🎯 2026 Goals`
+
+* [ ] Build production-quality full-stack applications
+* [ ] Become strong in Java + Spring Boot
+* [ ] Improve DSA problem-solving
+* [ ] Build and deploy cloud-based applications
+* [ ] Explore AI-powered software products
+* [ ] Contribute to open source
+* [ ] Build a stronger portfolio of real-world projects
+
+---
+
+# `📌 GitHub Activity`
+
+<div align="center">
+
+![GitHub Activity](https://img.shields.io/github/last-commit/Wrathemperor/-Smart-Expiry-Scanner-App?style=for-the-badge\&label=LAST%20PROJECT%20UPDATE)
+
+![GitHub Stars](https://img.shields.io/github/stars/Wrathemperor/-Smart-Expiry-Scanner-App?style=for-the-badge\&label=PROJECT%20STARS)
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Wrathemperor/-Smart-Expiry-Scanner-App?style=for-the-badge\&label=PROJECT%20SIZE)
+
+</div>
+
+---
+
+# `🌐 Connect With Me`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/anvay-khandagale">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Wrathemperor">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/coder_anvay">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/macroinvincible">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Build. Break. Learn. Repeat.`
+
+**Thanks for visiting my profile.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Wrathemperor&style=flat-square&color=blue" alt="Profile Views"/>
+
+</div>
