@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wrathemperor&show_icons=true&locale=en&layout=compact" alt="wrathemperor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrathemperor&show_icons=true&locale=en" alt="wrathemperor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wrathemperor&" alt="wrathemperor" /></p>
