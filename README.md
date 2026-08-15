@@ -96,13 +96,13 @@ and continuously improving it.
 
 ---
 
-# `🚀 Featured Projects`
+# ` Featured Projects`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛒 Smart Expiry Scanner
+### Smart Expiry Scanner
 
 An application focused on tracking product expiry information and helping users manage items before they expire.
 
@@ -118,7 +118,7 @@ An application focused on tracking product expiry information and helping users 
 
 <td width="50%">
 
-### 🔐 VaultLock
+###  VaultLock
 
 An offline-first password vault concept focused on local security, encrypted storage and secure session handling.
 
@@ -138,7 +138,7 @@ An offline-first password vault concept focused on local security, encrypted sto
 
 ---
 
-# `📊 GitHub Analytics`
+# ` GitHub Analytics`
 
 <div align="center">
 
@@ -162,7 +162,7 @@ An offline-first password vault concept focused on local security, encrypted sto
 
 ---
 
-# `📈 Contribution Activity`
+# `Contribution Activity`
 
 <div align="center">
 
@@ -176,7 +176,7 @@ An offline-first password vault concept focused on local security, encrypted sto
 
 ---
 
-# `🐍 Contribution Snake`
+# ` Contribution Snake`
 
 <div align="center">
 
@@ -186,7 +186,7 @@ An offline-first password vault concept focused on local security, encrypted sto
 
 ---
 
-# `🏆 GitHub Achievements`
+# ` GitHub Achievements`
 
 <div align="center">
 
@@ -200,7 +200,7 @@ An offline-first password vault concept focused on local security, encrypted sto
 
 ---
 
-# `💻 Coding Profiles`
+# ` Coding Profiles`
 
 <div align="center">
 
@@ -220,7 +220,7 @@ An offline-first password vault concept focused on local security, encrypted sto
 
 ---
 
-# `🧠 Currently Learning`
+# ` Currently Learning`
 
 ```text
 Java
@@ -247,7 +247,7 @@ AI / ML
 
 ---
 
-# `🎯 2026 Goals`
+# ` 2026 Goals`
 
 * [ ] Build production-quality full-stack applications
 * [ ] Become strong in Java + Spring Boot
