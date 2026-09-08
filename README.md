@@ -145,24 +145,32 @@ An offline-first password vault concept focused on local security, encrypted sto
 # ` GitHub Analytics`
 
 <div align="center">
+  <a href="https://github.com/Wrathemperor">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Wrathemperor&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      alt="Wrathemperor's GitHub Stats"
+    />
+  </a>
 
-<a href="https://github.com/Wrathemperor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wrathemperor&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anvay's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Wrathemperor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wrathemperor&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Anvay's Top Languages"/>
-</a>
-
+  <a href="https://github.com/Wrathemperor">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wrathemperor&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+      alt="Wrathemperor's Top Languages"
+    />
+  </a>
 </div>
 
-<br>
+<br />
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wrathemperor&theme=tokyonight&hide_border=true" alt="Anvay's GitHub Streak"/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Wrathemperor&theme=tokyonight&hide_border=true"
+    alt="Wrathemperor's GitHub Streak"
+  />
 </div>
+
 
 ---
 
