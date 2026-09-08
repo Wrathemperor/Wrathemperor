@@ -177,13 +177,12 @@ An offline-first password vault concept focused on local security, encrypted sto
 # `Contribution Activity`
 
 <div align="center">
-
-<a href="https://github.com/Wrathemperor">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wrathemperor&theme=tokyo-night&hide_border=true&area=true" alt="Anvay's Contribution Activity Graph"/>
-
-</a>
-
+  <a href="https://github.com/Wrathemperor">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Wrathemperor&theme=tokyo-night&hide_border=true&area=true"
+      alt="Wrathemperor's Contribution Activity Graph"
+    />
+  </a>
 </div>
 
 ---
@@ -191,23 +190,23 @@ An offline-first password vault concept focused on local security, encrypted sto
 # ` Contribution Snake`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Wrathemperor/Wrathemperor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img
+    src="https://raw.githubusercontent.com/Wrathemperor/Wrathemperor/output/github-contribution-grid-snake.svg"
+    alt="Wrathemperor's Contribution Snake"
+  />
 </div>
+
 
 ---
 
 # ` GitHub Achievements`
 
 <div align="center">
-
-<a href="https://github.com/Wrathemperor">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wrathemperor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-
-</a>
-
+  <p>
+    GitHub's native achievements and highlights appear directly on the profile page,
+    so this section is best kept as text unless you want to depend on a third-party
+    trophy card service.
+  </p>
 </div>
 
 ---
