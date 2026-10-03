@@ -1,296 +1,115 @@
 <div align="center">
 
-# 👋 Hi, I'm **Anvay Khandagale**
-
-### `Wrathemperor`
-
-**Computer Science Student • Developer • Problem Solver**
-
-Building practical applications with **Java, React, Spring, Cloud & AI/ML**
-
-<br>
-
-<a href="https://github.com/Wrathemperor">
-  <img src="https://img.shields.io/github/followers/Wrathemperor?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/Wrathemperor">
-  <img src="https://komarev.com/ghpvc/?username=Wrathemperor&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/anvay-khandagale">
-  <img src="https://img.shields.io/badge/LinkedIn-Anvay%20Khandagale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/coder_anvay">
-  <img src="https://img.shields.io/badge/LeetCode-coder__anvay-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/macroinvincible">
-  <img src="https://img.shields.io/badge/HackerRank-macroinvincible-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Wrathemperor's GitHub profile" src="dark_mode.svg" />
-</picture>
----
-
-## `> whoami`
-
-I'm **Anvay**, a Computer Science student interested in building software that solves real problems.
-
-My current focus is on strengthening my foundations in **software development, data structures & algorithms, backend development, cloud technologies, and AI/ML**.
-
-I enjoy taking an idea from:
-
-`Problem → Architecture → Code → Product`
-
-and continuously improving it.
-
-### Currently focused on
-
-* Building practical full-stack applications
-* Strengthening **Java & Spring** development
-* Improving **Data Structures & Algorithms**
-* Exploring **AWS, Docker & cloud architecture**
-* Learning more about **AI/ML & intelligent applications**
-* Building projects that are actually useful
-
----
-
-# `⚡ Tech Stack`
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-</p>
-
----
-
-# ` Featured Projects`
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-
-### Smart Expiry Scanner
-
-An application focused on tracking product expiry information and helping users manage items before they expire.
-
-**Tech:** Android • Java • Computer Vision
-
-<br>
-
-<a href="https://github.com/Wrathemperor/-Smart-Expiry-Scanner-App">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · wrathemperor</sub></p>
+<h1>Anvay Khandagale</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Computer Science student with hands-on experience building AI-enabled software, web applications, automation workflows, and embedded prototypes.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in AMARAVATI,ANDHRA PRADESH · Building at VIT-AP</sub></p>
+<p><a href="https://github.com/wrathemperor">GitHub</a> &nbsp;·&nbsp; <a href="https://anvayk.vercel.app">Website</a></p>
 </td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/208356825?u=cd4729a2ee840b46742ac5af774a53d3aadaa23f&amp;v=4" width="180" alt="Anvay Khandagale GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<td width="50%">
+<h2>What teams can evaluate quickly</h2>
 
-###  VaultLock
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 3 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>14 contributions · 8 active days</p></td>
+</tr>
+</table>
 
-An offline-first password vault concept focused on local security, encrypted storage and secure session handling.
+<p><sub>Computer Science student with hands-on experience building AI-enabled software, web applications, automation workflows, and embedded prototypes.</sub></p>
 
-**Tech:** Android • Java • MVVM • AES-256-GCM
+<h2>Proof at a glance</h2>
 
-<br>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<a href="https://github.com/Wrathemperor">
-<img src="https://img.shields.io/badge/More%20Projects-181717?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Anvay Khandagale GitHub proof metrics" />
+</picture>
+</p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&repos=wrathemperor%2FKinetic-Armor%2Cwrathemperor%2F-Smart-Expiry-Scanner-App%2Cwrathemperor%2FSuperdesign-app-compiler%2Cwrathemperor%2FSkinCancerDetection_HAM100000&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&repos=wrathemperor%2FKinetic-Armor%2Cwrathemperor%2F-Smart-Expiry-Scanner-App%2Cwrathemperor%2FSuperdesign-app-compiler%2Cwrathemperor%2FSkinCancerDetection_HAM100000&v=recruiter-projects-1&mode=dark" width="100%" alt="Anvay Khandagale selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Wrathemperor/Kinetic-Armor">Kinetic-Armor</a></h3>
+<p>Kinetic Armor is a state-of-the-art asset protection engine designed for the modern creator economy. Built for the Google Solution Challenge 2026, it</p>
+<p><sub>JavaScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Wrathemperor/Kinetic-Armor">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-> More projects will be featured here as the portfolio grows.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Wrathemperor/-Smart-Expiry-Scanner-App">-Smart-Expiry-Scanner-App</a></h3><p>An intelligent, privacy-first mobile application built with React Native and Expo for real-time product expiry date detection using on-device Machine</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Wrathemperor/Superdesign-app-compiler">Superdesign-app-compiler</a></h3><p>Superdesign is a deterministic, multi-stage application generation system designed to function like a compiler for software. It transforms natural lan</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Wrathemperor/SkinCancerDetection_HAM100000">SkinCancerDetection_HAM100000</a></h3><p>An end-to-end Deep Learning &amp; Computer Vision web application for automated multi-class classification of skin lesions using Transfer Learning (Mobile</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-# ` GitHub Analytics`
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Anvay Khandagale technology stack" />
+</picture>
+</p>
 
-<div align="center">
-  <a href="https://github.com/Wrathemperor">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Wrathemperor&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
-      alt="Wrathemperor's GitHub Stats"
-    />
-  </a>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>PowerShell</strong><br /><sub>11% of public code</sub></td>
+</tr>
+</table>
 
-  <a href="https://github.com/Wrathemperor">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wrathemperor&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-      alt="Wrathemperor's Top Languages"
-    />
-  </a>
-</div>
+<h2>Consistency signal</h2>
 
-<br />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=wrathemperor&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208356825%3Fu%3Dcd4729a2ee840b46742ac5af774a53d3aadaa23f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Anvay Khandagale contribution activity" />
+</picture>
+</p>
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Wrathemperor&theme=tokyonight&hide_border=true"
-    alt="Wrathemperor's GitHub Streak"
-  />
-</div>
+<hr />
 
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/wrathemperor">GitHub</a><br /><a href="https://anvayk.vercel.app">Website</a></td>
+</tr>
+</table>
 
-
-
-# ` GitHub Achievements`
-
-<div align="center">
-  <p>
-    GitHub's native achievements and highlights appear directly on the profile page,
-    so this section is best kept as text unless you want to depend on a third-party
-    trophy card service.
-  </p>
-</div>
-
----
-
-# ` Coding Profiles`
-
-<div align="center">
-
-<a href="https://leetcode.com/coder_anvay">
-<img src="https://img.shields.io/badge/LeetCode-coder__anvay-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/macroinvincible">
-<img src="https://img.shields.io/badge/HackerRank-macroinvincible-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Wrathemperor">
-<img src="https://img.shields.io/badge/GitHub-Wrathemperor-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ` Currently Learning`
-
-```text
-Java
- ├── Spring / Spring Boot
- ├── Backend Development
- └── System Design
-
-Cloud
- ├── AWS
- ├── Docker
- └── Cloud Architecture
-
-Computer Science
- ├── Data Structures & Algorithms
- ├── DBMS
- ├── Operating Systems
- └── Computer Networks
-
-AI / ML
- ├── Machine Learning
- ├── Computer Vision
- └── Intelligent Applications
-```
-
----
-
-# ` 2026 Goals`
-
-* [ ] Build production-quality full-stack applications
-* [ ] Become strong in Java + Spring Boot
-* [ ] Improve DSA problem-solving
-* [ ] Build and deploy cloud-based applications
-* [ ] Explore AI-powered software products
-* [ ] Contribute to open source
-* [ ] Build a stronger portfolio of real-world projects
-
----
-
-# `📌 GitHub Activity`
-
-<div align="center">
-
-![GitHub Activity](https://img.shields.io/github/last-commit/Wrathemperor/-Smart-Expiry-Scanner-App?style=for-the-badge\&label=LAST%20PROJECT%20UPDATE)
-
-![GitHub Stars](https://img.shields.io/github/stars/Wrathemperor/-Smart-Expiry-Scanner-App?style=for-the-badge\&label=PROJECT%20STARS)
-
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Wrathemperor/-Smart-Expiry-Scanner-App?style=for-the-badge\&label=PROJECT%20SIZE)
-
-</div>
-
----
-
-# `🌐 Connect With Me`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/anvay-khandagale">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Wrathemperor">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/coder_anvay">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/macroinvincible">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `Build. Break. Learn. Repeat.`
-
-**Thanks for visiting my profile.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Wrathemperor&style=flat-square&color=blue" alt="Profile Views"/>
-
-</div>
+<p align="center"><sub>Anvay Khandagale · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
